@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-React Project's Front End
+React Project's Foreign Currency Front End
 ===============
 
 Basically just building React Project delight to develop and deploy.
