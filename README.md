@@ -10,12 +10,10 @@ Basically just building React Project delight to develop and deploy.
 Download the latest [Node.js](https://nodejs.org/) version
 
 ```
-# General
-npm install
-
 # React Project's Front End
 git clone https://github.com/anggalof/react-currency-project.git
 cd react-currency-project
+npm install
 npm start
 ```
 # Notice
